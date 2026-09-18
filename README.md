@@ -52,9 +52,8 @@ It also connects live with **The Movie Database (TMDB) API** to fetch official h
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Run
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MuhammadHamza312/movie-recommender-system.git
-cd movie-recommender-system
+https://movie-recommender-system-czrrfqyvautqrb4rhojqzb.streamlit.app/
